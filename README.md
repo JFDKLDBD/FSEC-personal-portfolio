@@ -4,7 +4,7 @@
 电源：24V DCDC  
 连续串联开关（车辆安全项）对动力电池主继电器线圈供电  
 检测BMS（电池管理系统）、IMD（绝缘检测）并做电路故障切断  
-信号灯的可视性检查，刹车灯控制等  
+信号灯的可视性检查，刹车灯控制，TSAL（驱动系统状态逻辑）等  
 
 PCB  
 <img width="681" height="685" alt="屏幕截图 2026-01-15 185842" src="https://github.com/user-attachments/assets/48dded0c-2775-4411-a4a1-367e9e499b3a" />
