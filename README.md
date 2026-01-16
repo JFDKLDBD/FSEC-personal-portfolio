@@ -1,9 +1,9 @@
 # FSEC-personal-portfolio
 2023赛季开始，赛车队采用轮边四电机与四行星齿轮减速器设计，优化赛车的精细控制  
 
-写在前面：打开simulink文件需要装embbed coder/matlab coder/
+写在前面：打开simulink文件需要装embedded coder/matlab coder以及优控的模块库encoder
 
-以下是文件注释  
+以下是文件注释:  
 
 报文模块部分：  
 AMK_Inverter_CAN.m 电机控制器返回值（电机转速，电机及控制器温度等）  
